@@ -1,0 +1,5 @@
+2022 Casablanca Laptop1 12000
+2022 Rabat Desktop1 20000
+2021 Casablanca Laptop1 13000
+2021 Fez Laptop2 30000
+2020 Casablanca Desktop 10000
